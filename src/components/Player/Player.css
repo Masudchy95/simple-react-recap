@@ -1,0 +1,12 @@
+.player{
+    text-align: center;
+    border: 1px solid lightseagreen;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.main-button{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: goldenrod;
+}

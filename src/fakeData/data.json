@@ -2,7 +2,7 @@
     "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170624/steven-smith.jpg",
     "name": "Steven Smith",
     "country": "Australia",
-    "profession field": "Right Handed Batsman",
+    "profession field": "Right Handed Batsman" ,
     "base price": "$9000"
   }, {
     "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg",
@@ -29,83 +29,83 @@
     "profession field": "WK-Batsman",
     "base price": "$8300"
   }, {
-    "image": "http://dummyimage.com/190x100.png/cc0000/ffffff",
-    "name": "Gretta Gilmartin",
-    "country": "Togo",
-    "profession field": "Quality Control Specialist",
-    "base price": "$8.77"
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170857/rashid-khan.jpg",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "profession field": "Right Handed Leg Spinner",
+    "base price": "$8600"
   }, {
-    "image": "http://dummyimage.com/219x100.png/ff4444/ffffff",
-    "name": "Vonny Vasyutin",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170810/nicholas-pooran.jpg",
+    "name": "Nicholas Pooran",
+    "country": "West Indies",
+    "profession field": "WK-Batsman",
+    "base price": "$7200"
+  }, {
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170747/trent-boult.jpg",
+    "name": "Trent Boult",
     "country": "New Zealand",
-    "profession field": "Account Coordinator",
-    "base price": "$2.96"
+    "profession field": "Left Arm Fast Bowler",
+    "base price": "$8200"
   }, {
-    "image": "http://dummyimage.com/180x100.png/dddddd/000000",
-    "name": "Jamison Diver",
-    "country": "Sweden",
-    "profession field": "Administrative Officer",
-    "base price": "$1.44"
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170801/chris-gayle.jpg",
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "profession field": "Left Handed batsman",
+    "base price": "$9300"
   }, {
-    "image": "http://dummyimage.com/221x100.png/5fa2dd/ffffff",
-    "name": "Arnold Gouthier",
-    "country": "Brazil",
-    "profession field": "Software Consultant",
-    "base price": "$0.73"
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170643/mitchell-starc.jpg",
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "profession field": "Left Arm Fast Bowler",
+    "base price": "$8600"
   }, {
-    "image": "http://dummyimage.com/137x100.png/cc0000/ffffff",
-    "name": "Reina Cattell",
-    "country": "China",
-    "profession field": "Developer IV",
-    "base price": "$1.39"
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170950/ben-stokes.jpg",
+    "name": "Ben Stokes",
+    "country": "England",
+    "profession field": "Allrounder",
+    "base price": "$8000"
   }, {
-    "image": "http://dummyimage.com/175x100.png/ff4444/ffffff",
-    "name": "Magdalena Cheyenne",
-    "country": "Canada",
-    "profession field": "Junior Executive",
-    "base price": "$5.40"
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170635/david-warner.jpg",
+    "name": "David Warner",
+    "country": "Australia",
+    "profession field": "Left Handed Batsman",
+    "base price": "$8700"
   }, {
-    "image": "http://dummyimage.com/197x100.png/cc0000/ffffff",
-    "name": "Frayda Connock",
-    "country": "Kazakhstan",
-    "profession field": "Programmer III",
-    "base price": "$9.87"
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170804/hasan-ali.jpg",
+    "name": "Hassan Ali",
+    "country": "Pakistan",
+    "profession field": "Right Arm Fast Bowler",
+    "base price": "$7400"
   }, {
-    "image": "http://dummyimage.com/198x100.png/5fa2dd/ffffff",
-    "name": "Cookie Fidian",
-    "country": "Thailand",
-    "profession field": "Paralegal",
-    "base price": "$7.43"
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170687/david-miller.jpg",
+    "name": "David Miller",
+    "country": "South Africa",
+    "profession field": "Left Handed Batsman",
+    "base price": "$7300"
   }, {
-    "image": "http://dummyimage.com/239x100.png/cc0000/ffffff",
-    "name": "Arabela Mergue",
-    "country": "China",
-    "profession field": "Tax Accountant",
-    "base price": "$8.10"
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170999/ab-de-villiers.jpg",
+    "name": "AB De Villiers",
+    "country": "South Africa",
+    "profession field": "Right Handed Batsman",
+    "base price": "$9400"
   }, {
-    "image": "http://dummyimage.com/241x100.png/5fa2dd/ffffff",
-    "name": "Candide Josilevich",
-    "country": "Philippines",
-    "profession field": "Media Manager II",
-    "base price": "$0.54"
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170970/jofra-archer.jpg",
+    "name": "Jofra Archer",
+    "country": "England",
+    "profession field": "Right Arm Fast Bowler",
+    "base price": "$7900"
   }, {
-    "image": "http://dummyimage.com/248x100.png/5fa2dd/ffffff",
-    "name": "Malcolm Dummett",
-    "country": "Poland",
-    "profession field": "Assistant Professor",
-    "base price": "$5.45"
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170821/andre-russell.jpg",
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "profession field": "Allrounder",
+    "base price": "$7700"
   }, {
-    "image": "http://dummyimage.com/151x100.png/cc0000/ffffff",
-    "name": "Kat O'Hdirscoll",
-    "country": "Mexico",
-    "profession field": "VP Quality Control",
-    "base price": "$5.01"
-  }, {
-    "image": "http://dummyimage.com/222x100.png/dddddd/000000",
-    "name": "Nanny Bennington",
-    "country": "Brazil",
-    "profession field": "Office Assistant III",
-    "base price": "$3.06"
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "profession field": "Left Handed Bowler",
+    "base price": "$7000"
   }]
 
   ​
