@@ -1,0 +1,11 @@
+.budget-container{
+    width:100%;
+    margin-left: 10px;
+}
+.budget-container h4{
+    text-align: center;
+    color: green;
+}
+.budget-container ol{
+    color: red;
+}

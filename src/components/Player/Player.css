@@ -3,7 +3,15 @@
     border: 1px solid lightseagreen;
     border-radius: 10px;
     margin-bottom: 10px;
-    padding: 10px;
+    padding: 5px;
+    float: left;
+}
+.player h6{
+    color: purple;
+    font-style: inherit;
+}
+.player p{
+    color: red;
 }
 .main-button{
     border: 1px solid black;

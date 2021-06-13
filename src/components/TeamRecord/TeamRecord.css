@@ -1,7 +1,11 @@
 .team-container{
     display:flex;
 }
+.player-container h4{
+    margin-left: 5px;;
+    color: red;
+}
 .player-container{
     border-right: 1px solid lightgray;
-    width: 80%;
+    width: 250%;
 }

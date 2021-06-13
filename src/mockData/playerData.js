@@ -33,7 +33,7 @@ var players = [{
   "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170857/rashid-khan.jpg",
   "name": "Rashid Khan",
   "country": "Afghanistan",
-  "profession": "Right Handed Leg Spinner",
+  "profession": "Leg Spinner",
   "base_price": "$8600"
 }, {
   "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170810/nicholas-pooran.jpg",
