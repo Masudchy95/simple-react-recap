@@ -8,6 +8,7 @@ const Budget = (props) => {
         <div className="budget-container">
             <h4>Player's Budget:</h4>
             <h6>Total Player Selected: {budget.length}</h6>
+            <p>Total Budget expenses: ${total}</p>
             <p>Name of the selected player's:</p>
             <p><small>
             <ol>
@@ -16,7 +17,6 @@ const Budget = (props) => {
                 }
             </ol>
             </small></p>
-            <p>Total Budget expenses: ${total}</p>
         </div>
     );
 };
